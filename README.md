@@ -9,4 +9,4 @@ The project is created by very dynamic and ambitious duo.
 - Małgorzata Farbotko
 - Adam Mikołajczak
 
-They're both students of Computer Science at the Faculty of Mathematics and Computer Science in Adam Mickiewicz University (Poznań, Poland).
+They're both students of Computer Science at the Faculty of Mathematics and Computer Science in Adam Mickiewicz University (Poznań, Poland) and are set to become engineers in the next year of 2026.
