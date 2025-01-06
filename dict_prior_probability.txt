@@ -1,0 +1,18 @@
+{
+    "labrador-retriever": 0.12,
+    "yorkshire-terrier": 0.1,
+    "owczarek-niemiecki": 0.15,
+    "beagle": 0.07,
+    "golden-retriever": 0.08,
+    "buldog-francuski": 0.07,
+    "mops": 0.05,
+    "cocker-spaniel": 0.02,
+    "shih-tzu": 0.04,
+    "border-collie": 0.03,
+    "maltańczyk": 0.01,
+    "rottweiler": 0.08,
+    "doberman": 0.02,
+    "akita-inu": 0.01,
+    "husky": 0.03,
+    "chihuahua": 0.04
+}

@@ -38,7 +38,7 @@ def calculate_probability_of_word_in_class(class_vocab, total_words_in_class, cl
 
 #Odpalic jak chce sie wygenrerowac nowe pliki - vocab_with_counts.json, czyli w osobnym wierszu osobny słownik i total_words.txt, czyli ile jest słow w sumie
 def generate_info_files(description_path):
-    description_file = open(f'{description_path}.txt', 'r', encoding='utf-8')
+    description_file = open(description_path, 'r', encoding='utf-8')
     descriptions = description_file.readlines()
 
     vocab_file = open('vocab_with_counts.json', 'w', encoding='utf-8')
@@ -87,7 +87,6 @@ def generate_probability_file():
             probability_of_words_in_class_file.write(str(calculate_probability_of_word_in_class(dict[i], total_words_int[i], vocab_size[i]))+ '\n')
     probability_of_words_in_class_file.write(']')
 
-    
 # nie wiem nie rozumiem zabije sie pozdrawiam nowy rok nowa ja wiec nowa ja będzie martwa uwu nie no serio zarcik kckc
 
 def classify(input_text):
@@ -99,7 +98,7 @@ def classify(input_text):
 
     input_text= input_text.replace('pies', ' ')
     words = lemmatize_text(input_text).split()
-    print(words)
+
     probability_for_each_class = []
     for i in range(len(probability_of_word_in_class)):
         probability = probability_of_race[i]
@@ -111,10 +110,59 @@ def classify(input_text):
         probability_for_each_class.append(probability)
     return probability_for_each_class.index(max(probability_for_each_class))
 
- 
-#generate_info_files('data/wikipedia/dog_descriptions_chat') #<- jak te pliki sa wygenerowane to mozna odpalic to pod spodem
-#generate_probability_file() #<- to jest do wygenerowania pliku potrzebnego do classify
-print(classify("mój pies lubi łowić ryby"))
+def generate_description_file(descriptions_path, breeds_path):
+    descriptions_file = open(descriptions_path, 'r', encoding='utf-8')
+    breeds_file = open(breeds_path, 'r', encoding='utf-8')
 
+    descriptions = descriptions_file.read().split('\n')
+    breeds = breeds_file.read().split('\n')
 
+    breed_to_descriptions = {}
+    for breed, description in zip(breeds, descriptions):
+        if breed in breed_to_descriptions:
+            breed_to_descriptions[breed].append(description)
+        else:
+            breed_to_descriptions[breed] = [description]
 
+    with open('unique_breeds.txt', 'w', encoding='utf-8') as unique_breeds_file:
+      for index, breed in enumerate(breed_to_descriptions.keys()):
+        if index == len(breed_to_descriptions) - 1:  
+            unique_breeds_file.write(f"{breed}")
+        else:
+            unique_breeds_file.write(f"{breed}\n")
+
+    with open('all_descriptions.txt', 'w', encoding='utf-8') as all_descriptions_file:
+        for index, (breed, descriptions) in enumerate(breed_to_descriptions.items()):
+            combined_descriptions = " ".join(descriptions)
+            if index == len(breed_to_descriptions) - 1:  
+                all_descriptions_file.write(f"{combined_descriptions}")
+            else:
+                all_descriptions_file.write(f"{combined_descriptions}\n")
+
+def generate_prior_probability_file():
+    breeds_file = open('unique_breeds.txt', 'r', encoding='utf-8')
+    breeds = breeds_file.read().split('\n')
+
+    prior_probability_file = open('dict_prior_probability.txt', 'r', encoding='utf-8')
+    dictionary = json.load(prior_probability_file)
+
+    generated_probability_file = open('prior_probability.txt', 'w', encoding='utf-8')
+    for breed in breeds:
+        generated_probability_file.write(str(dictionary[breed]) + '\n')
+    
+def get_breed(text):
+    index = classify(text)
+    breeds_file = open('unique_breeds.txt', 'r', encoding='utf-8')
+    breeds = breeds_file.read().split('\n')
+    return breeds[index]
+
+description_file = 'data/inne1/dog_breeds_decriptions.txt'
+breeds_file = 'data/inne1/dog_breeds.txt'
+
+def generate_all_necessary_files(description_file, breeds_file):
+    generate_description_file(description_file, breeds_file)
+    generate_prior_probability_file()
+    generate_info_files('all_descriptions.txt') 
+    generate_probability_file() 
+
+get_breed('moj pies lubi sikac idk')
