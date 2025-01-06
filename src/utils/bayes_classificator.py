@@ -30,8 +30,14 @@ def create_vocab_with_counts_for_one_description(text):
             vocab[word] = 1
     return json.dumps(vocab, ensure_ascii=False)
 
+def calculate_probability_of_word_in_class(class_vocab, total_words_in_class, class_vocab_size):
+    probability_of_words = {}
+    for word, count in class_vocab.items():
+        probability_of_words[word] = (count + 1) / (total_words_in_class + class_vocab_size)
+    return json.dumps(probability_of_words, ensure_ascii=False)
+
 #Odpalic jak chce sie wygenrerowac nowe pliki - vocab_with_counts.json, czyli w osobnym wierszu osobny słownik i total_words.txt, czyli ile jest słow w sumie
-def files_generator(description_path):
+def generate_info_files(description_path):
     description_file = open(f'{description_path}.txt', 'r', encoding='utf-8')
     descriptions = description_file.readlines()
 
@@ -61,23 +67,54 @@ def files_generator(description_path):
     for i in range(len(dict)):
         vocab_size = len(dict[i])
         vocab_size_file.write(str(vocab_size)+'\n')
+    
+def generate_probability_file():
+    total_words_file = open('total_words.txt', 'r').read().split()
+    total_words_int = [int(i) for i in total_words_file]
 
+    vocab_size = open('vocab_size.txt', 'r', encoding='utf-8').read().split()
+    vocab_size = [int(i) for i in vocab_size]
+
+    vocab_file = open('vocab_with_counts.json', 'r', encoding='utf-8')
+    dict = json.load(vocab_file)
+
+    probability_of_words_in_class_file = open('probability_of_words_in_class.json', 'w', encoding='utf-8')
+    probability_of_words_in_class_file.write('[')
+    for i in range(len(dict)):
+        if i < len(dict) - 1:
+            probability_of_words_in_class_file.write(str(calculate_probability_of_word_in_class(dict[i],total_words_int[i], vocab_size[i]) )+ ',\n')
+        else:
+            probability_of_words_in_class_file.write(str(calculate_probability_of_word_in_class(dict[i], total_words_int[i], vocab_size[i]))+ '\n')
+    probability_of_words_in_class_file.write(']')
+
+    
 # nie wiem nie rozumiem zabije sie pozdrawiam nowy rok nowa ja wiec nowa ja będzie martwa uwu nie no serio zarcik kckc
-def calculate_probability_of_word_in_class(class_vocab, total_words_in_class, class_vocab_size):
-    probability_of_words = {}
-    for word, count in class_vocab.items():
-        probability_of_words[word] = (count + 1) / (total_words_in_class + class_vocab_size)
-    return probability_of_words
+
+def classify(input_text):
+    probability_of_race = open('prior_probability.txt', 'r', encoding='utf-8').read().split()
+    probability_of_race = [float(i) for i in probability_of_race]
+
+    probability_of_word_in_class = open('probability_of_words_in_class.json', 'r', encoding='utf-8')
+    probability_of_word_in_class = json.load(probability_of_word_in_class)
+
+    input_text= input_text.replace('pies', ' ')
+    words = lemmatize_text(input_text).split()
+    print(words)
+    probability_for_each_class = []
+    for i in range(len(probability_of_word_in_class)):
+        probability = probability_of_race[i]
+        for word in words:
+            if word in probability_of_word_in_class[i]:
+                probability *= probability_of_word_in_class[i][word]
+            else:
+                probability *= 1 / 1000000
+        probability_for_each_class.append(probability)
+    return probability_for_each_class.index(max(probability_for_each_class))
+
+ 
+#generate_info_files('data/wikipedia/dog_descriptions_chat') #<- jak te pliki sa wygenerowane to mozna odpalic to pod spodem
+#generate_probability_file() #<- to jest do wygenerowania pliku potrzebnego do classify
+print(classify("mój pies lubi łowić ryby"))
 
 
-total_words = open('total_words.txt', 'r', encoding='utf-8').read().split()
-total_words = [int(i) for i in total_words]
 
-vocab_size = open('vocab_size.txt', 'r', encoding='utf-8').read().split()
-vocab_size = [int(i) for i in vocab_size]
-
-vocab_file = open('vocab_with_counts.json', 'r', encoding='utf-8')
-dict = json.load(vocab_file)
-print(dict[0])
-
-print(calculate_probability_of_word_in_class(dict[0], total_words[0], vocab_size[0]))
