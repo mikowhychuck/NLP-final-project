@@ -159,8 +159,8 @@ def get_breed(text):
     result = result.replace('-', ' ')
     return result
 
-description_file = 'data/inne1/dog_breeds_decriptions.txt'
-breeds_file = 'data/inne1/dog_breeds.txt'
+description_file = 'data/descriptions.txt'
+breeds_file = 'data/breeds.txt'
 
 def generate_all_necessary_files(description_file, breeds_file):
     generate_description_file(description_file, breeds_file)

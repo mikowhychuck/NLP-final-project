@@ -3,7 +3,7 @@ yorkshire-terrier
 owczarek-niemiecki
 beagle
 golden-retriever
-buldog-francuski
+buldog
 mops
 cocker-spaniel
 shih-tzu

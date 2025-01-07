@@ -4,7 +4,7 @@
     "owczarek-niemiecki": 0.15,
     "beagle": 0.07,
     "golden-retriever": 0.08,
-    "buldog-francuski": 0.07,
+    "buldog": 0.07,
     "mops": 0.05,
     "cocker-spaniel": 0.02,
     "shih-tzu": 0.04,
