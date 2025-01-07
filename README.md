@@ -1,5 +1,7 @@
 # HowHau
 
+![Logo](howhau.PNG)
+
 HowHau is an amazing, state-of-the-art system, which was created to classify dog breeds based on their text description in polish.
 
 ## Creators
