@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>HowHau</title>
+</head>
+<body>
+    <header>
+        <img src="/static/logo.png" alt="Logo">
+        <h1>HowHau</h1>
+    </header>
+
+    <main>
+        <section class="intro">
+            <h1>Opisz swojego wymarzonego pieska</h1>
+            <p>Podziel się, jak wyobrażasz sobie swojego idealnego towarzysza, a my znajdziemy dla ciebie idealną rasę!</p>
+        </section>
+        <form id="textForm">
+            <textarea id="textInput" rows="4" cols="50" placeholder="Wpisz tekst..."></textarea>
+            <br>
+            <button type="submit">Wyślij</button>
+        </form>
+
+        <p id="result"></p>
+    </main>
+
+    <script>
+        document.getElementById('textForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const text = document.getElementById('textInput').value;
+
+            const response = await fetch('/classify', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ text }),
+            });
+
+            const data = await response.json();
+            document.getElementById('result').innerText = `Twój wymarzony pies to ${data.class}!`;
+        });
+    </script>
+</body>
+</html>

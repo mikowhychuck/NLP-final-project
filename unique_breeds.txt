@@ -1,0 +1,16 @@
+labrador-retriever
+yorkshire-terrier
+owczarek-niemiecki
+beagle
+golden-retriever
+buldog-francuski
+mops
+cocker-spaniel
+shih-tzu
+border-collie
+maltańczyk
+rottweiler
+doberman
+akita-inu
+husky
+chihuahua

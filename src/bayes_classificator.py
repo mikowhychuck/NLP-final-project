@@ -2,6 +2,7 @@ import json
 import spacy
 import re
 import os
+import spacy
 
 nlp = spacy.load("pl_core_news_sm")
 
@@ -154,7 +155,9 @@ def get_breed(text):
     index = classify(text)
     breeds_file = open('unique_breeds.txt', 'r', encoding='utf-8')
     breeds = breeds_file.read().split('\n')
-    return breeds[index]
+    result = breeds[index]
+    result = result.replace('-', ' ')
+    return result
 
 description_file = 'data/inne1/dog_breeds_decriptions.txt'
 breeds_file = 'data/inne1/dog_breeds.txt'
@@ -165,4 +168,5 @@ def generate_all_necessary_files(description_file, breeds_file):
     generate_info_files('all_descriptions.txt') 
     generate_probability_file() 
 
-get_breed('moj pies lubi sikac idk')
+generate_all_necessary_files(description_file, breeds_file)
+print(get_breed('moj pies lubi sikac idk'))
