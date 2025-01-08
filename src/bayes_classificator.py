@@ -6,6 +6,16 @@ import spacy
 
 nlp = spacy.load("pl_core_news_sm")
 
+def get_total_words():
+    total_words_file = open('total_words.txt', 'r').read().split()
+    total_words_int = [int(i) for i in total_words_file]
+    return sum(total_words_int)
+
+def get_vocab_size():
+    file = open('vocab_size.txt', 'r').read().split()
+    vocab_size_int = [int(i) for i in file]
+    return sum(vocab_size_int)
+
 def clean_text(text):
     text = text.lower()
     text = text.replace('\n', ' ')
@@ -88,8 +98,6 @@ def generate_probability_file():
             probability_of_words_in_class_file.write(str(calculate_probability_of_word_in_class(dict[i], total_words_int[i], vocab_size[i]))+ '\n')
     probability_of_words_in_class_file.write(']')
 
-# nie wiem nie rozumiem zabije sie pozdrawiam nowy rok nowa ja wiec nowa ja będzie martwa uwu nie no serio zarcik kckc
-
 def classify(input_text):
     probability_of_race = open('prior_probability.txt', 'r', encoding='utf-8').read().split()
     probability_of_race = [float(i) for i in probability_of_race]
@@ -107,7 +115,7 @@ def classify(input_text):
             if word in probability_of_word_in_class[i]:
                 probability *= probability_of_word_in_class[i][word]
             else:
-                probability *= 1 / 1000000
+                probability *= 1 / (get_total_words() + get_vocab_size())
         probability_for_each_class.append(probability)
     return probability_for_each_class.index(max(probability_for_each_class))
 
@@ -169,4 +177,4 @@ def generate_all_necessary_files(description_file, breeds_file):
     generate_probability_file() 
 
 generate_all_necessary_files(description_file, breeds_file)
-print(get_breed('moj pies lubi sikac idk'))
+print(get_breed('Chcę psa który jest cichy'))

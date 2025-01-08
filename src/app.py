@@ -1,7 +1,4 @@
 from flask import Flask, request, jsonify, render_template
-import json
-import spacy
-import re
 from bayes_classificator import get_breed
 
 app = Flask(__name__)
