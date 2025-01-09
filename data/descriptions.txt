@@ -474,3 +474,83 @@ Uwielbia biegać, ciągnąć sanie lub po prostu towarzyszyć w długich wyciecz
 Chihuahua to mały piesek, który zawsze zachowuje się, jakby był królem świata.
 Jego wielka osobowość i energia zaskakują, biorąc pod uwagę jego drobną posturę.
 To piesek, który uwielbia być blisko swojego człowieka, zawsze gotów na odrobinę uwagi i czułości.
+labrador-retriever: Idealny dla aktywnej rodziny z dziećmi. Labrador potrzebuje dużo ruchu i uwielbia być w centrum uwagi. Jest lojalny, przyjacielski i świetny jako pies towarzyszący.
+yorkshire-terrier: Dobry dla osoby mieszkającej w mieszkaniu, która szuka kompaktowego, ale energicznego psa. Wymaga konsekwentnej opieki nad sierścią i jest idealnym towarzyszem dla starszych osób.
+owczarek-niemiecki: Odpowiedni dla aktywnych ludzi lub rodzin, które mają doświadczenie z psami. Świetny jako pies stróżujący, pracujący lub towarzyszący, wymaga dużo uwagi i szkolenia.
+beagle: Świetny wybór dla rodzin z dziećmi, które mają czas na zabawę i spacery. Beagle jest energiczny, przyjazny i ciekawski, ale wymaga odpowiedniego szkolenia ze względu na swoje instynkty myśliwskie.
+golden-retriever: Doskonały dla rodzin z dziećmi lub osób szukających psa do terapii. Jest przyjazny, inteligentny i łatwy do szkolenia, ale potrzebuje regularnego ruchu.
+buldog: Idealny dla osób szukających spokojniejszego psa, który dobrze odnajduje się w mniejszych przestrzeniach. Buldog jest lojalny, cierpliwy i świetny dla rodzin z dziećmi.
+mops: Dobry dla osób mieszkających w mieszkaniach, które szukają towarzyskiego i zabawnego psa. Mopsy są przyjazne i nie wymagają dużo ruchu, ale potrzebują uwagi właściciela.
+cocker-spaniel: Świetny dla aktywnych rodzin, które lubią spędzać czas na świeżym powietrzu. Cockery są wesołe, łagodne i dobrze współpracują z dziećmi, ale wymagają regularnej pielęgnacji sierści.
+shih-tzu: Dobry wybór dla osób starszych lub mieszkających w małych przestrzeniach. Shih Tzu jest spokojny, przyjazny i uwielbia być w centrum uwagi, ale wymaga regularnego czesania.
+border-collie: Najlepszy dla bardzo aktywnych osób lub rodzin z doświadczeniem w pracy z psami. Border Collie jest niezwykle inteligentny i wymaga dużo ruchu oraz stymulacji umysłowej.
+maltańczyk: Idealny dla osób, które szukają małego, przyjaznego psa do towarzystwa. Maltańczyki dobrze odnajdują się w mieszkaniach i są łatwe w szkoleniu, ale wymagają regularnej pielęgnacji sierści.
+rottweiler: Odpowiedni dla doświadczonych właścicieli, którzy mają czas na szkolenie i konsekwentne podejście. Rottweilery są lojalne, inteligentne i świetne jako psy stróżujące.
+doberman: Najlepszy dla aktywnych, doświadczonych właścicieli, którzy mogą zapewnić szkolenie i dużo ruchu. Dobermany są lojalne, inteligentne i świetne w roli psów ochronnych.
+akita-inu: Dobry wybór dla osób z doświadczeniem w wychowywaniu psów. Akity są lojalne, niezależne i wymagają konsekwentnego szkolenia oraz przestrzeni do życia.
+husky: Idealny dla aktywnych osób, które lubią sport i długie spacery. Husky są energiczne, towarzyskie, ale mają silny instynkt ucieczki, więc wymagają odpowiednich zabezpieczeń.
+chihuahua: Świetny dla osób szukających małego psa do towarzystwa. Chihuahua są odważne, towarzyskie i dobrze odnajdują się w małych przestrzeniach, ale potrzebują odpowiedniej socjalizacji.
+Labrador retriever jest idealny dla rodzin z dziećmi, ponieważ ma przyjazne i cierpliwe usposobienie. Uwielbia wspólne zabawy i nigdy nie ma dość towarzystwa swoich bliskich.
+To pies, który sprawdzi się u osób aktywnych, uwielbiających długie spacery lub jogging. Labrador z przyjemnością będzie towarzyszył Ci na szlakach.
+Jako rasa łatwa do szkolenia, labrador jest odpowiedni dla osób szukających pierwszego psa. Jego inteligencja i chęć do nauki czynisz go wspaniałym kompanem.
+Labrador to wybór dla tych, którzy potrzebują psa terapeutycznego lub wspierającego w trudnych chwilach. Jego wrażliwość na ludzkie emocje jest niezwykła.
+Yorkshire terrier to doskonały wybór dla mieszkańców miast, którzy potrzebują niewielkiego psa. Jego rozmiary sprawiają, że łatwo adaptuje się do życia w mieszkaniu.
+Dla osób samotnych lub starszych, yorkshire terrier będzie czułym i oddanym towarzyszem. Uwielbia być blisko człowieka i śpędzić czas na kolanach właściciela.
+Idealny dla tych, którzy lubią elegancję - yorkshire wymaga regularnej pielęgnacji swojej jedwabistej sierści, co czyni go rasą dla osób ceniących styl.
+Jego czujność i energiczność sprawiają, że jest dobrym wyborem dla osób szukających małego, ale odważnego psa stróża.
+Owczarek niemiecki najlepiej sprawdzi się u osób, które szukają psa do pracy lub ochrony. Jego inteligencja i posłuszeństwo są niezastąpione.
+To idealna rasa dla rodzin z dziećmi, pod warunkiem odpowiedniego szkolenia. Owczarek jest lojalny i ochronny wobec swoich bliskich.
+Dla miłośników sportów kynologicznych, owczarek niemiecki będzie doskonałym partnerem. Agility, posłuszeństwo czy praca węchowa to jego żywioł.
+Osoby mieszkające na wsi lub posiadające duży ogród docenią energiczność i wszechstronność owczarka, który uwielbia przestrzeń.
+Beagle to pies dla rodzin, które szukają energicznego i wesołego towarzysza dla swoich dzieci. Jest cierpliwy i uwielbia zabawę.
+Idealny dla osób lubiących aktywne spędzanie czasu - beagle z chęcią będzie towarzyszył Ci podczas wędrówek i eksploracji nowych miejsc.
+Jego silny instynkt łowiecki sprawia, że jest odpowiedni dla osób interesujących się polowaniem lub sportami kynologicznymi.
+Beagle to wybór dla tych, którzy lubią wyzwania w szkoleniu. Jego niezależna natura wymaga cierpliwości i kreatywności w nauce.
+Golden retriever jest doskonały dla rodzin, które szukają przyjacielskiego i wesołego psa, który będzie uwielbiał dzieci.
+To rasa idealna dla osób chcących psa terapeutycznego lub przewodnika. Golden retrievery są inteligentne i empatyczne.
+Dla aktywnych ludzi, golden retriever to wymarzony partner do biegania, pływania czy innych aktywności na świeżym powietrzu.
+Osoby szukające psa rodzinnego docenią jego lojalność i bezgraniczną miłość, którą obdarza wszystkich domowników.
+Buldog to idealny towarzysz dla osób szukających spokojnego psa, który nie wymaga intensywnej aktywności fizycznej.
+Jego lojalność i przyjazne usposobienie sprawiają, że jest dobrym wyborem dla rodzin z dziećmi.
+Dla mieszkańców miast, buldog jest doskonałym wyborem, ponieważ dobrze czuje się w małych przestrzeniach.
+Jego wyjątkowy wygląd i spokojna natura sprawiają, że jest popularnym wyborem dla osób ceniących nietuzinkowe rasy.
+Mops to wybór dla osób, które cenią humor i zabawne zachowania. Jego charakterystyczny wygląd i osobowość śmieszka rozweselą każdego.
+Dla starszych ludzi lub osób mieszkających w małych mieszkaniach, mops jest idealnym kompanem. Nie potrzebuje dużo ruchu, ale uwielbia towarzystwo.
+Rodziny z dziećmi pokochają mopsy za ich cierpliwość i przyjazne usposobienie. To psy, które dobrze dogadują się z maluchami.
+Dla tych, którzy lubią spokojne wieczory na kanapie, mops jest doskonałym towarzyszem - uwielbia drzemki i przytulanie.
+Cocker spaniel jest odpowiedni dla aktywnych rodzin, które lubią spędzać czas na spacerach i zabawach na świeżym powietrzu. 
+Jego wesoła natura i inteligencja sprawiają, że jest łatwy do szkolenia i dobrze odnajduje się w domach z dziećmi.
+Osoby ceniące urodę psa docenią jego piękną sierść, która wymaga regularnej pielęgnacji.
+Cocker spaniel to doskonały wybór dla tych, którzy szukają psa o łagodnym i kochającym charakterze, który szybko staje się członkiem rodziny.
+Shih-tzu to idealny wybór dla osób, które cenią sobie psy o niewielkich rozmiarach, ale z ogromnym sercem. Są doskonałymi towarzyszami do przytulania i relaksu.
+Dla mieszkańców miast shih-tzu sprawdzi się jako pies, który łatwo adaptuje się do życia w małych mieszkaniach. Nie wymaga dużej aktywności fizycznej, ale uwielbia spacery.
+Osoby z zamiłowaniem do pielęgnacji psów docenią piękną, jedwabistą sierść shih-tzu. Regularne czesanie to przyjemny rytuał, który wzmacnia więź.
+Shih-tzu to pies dla tych, którzy lubią psy spokojne i czułe. Jego łagodny charakter czyni go idealnym kompanem dla seniorów.
+Border collie to rasa dla osób aktywnych, które kochają sport i wyzwania. Jego inteligencja i energia sprawiają, że potrzebuje dużo ruchu i stymulacji.
+Dla miłośników sportów kynologicznych border collie jest wymarzonym partnerem. Doskonale sprawdza się w agility, flyballu czy pracy z owcami.
+Osoby mieszkające na wsi z dużymi terenami do dyspozycji znajdą w border collie idealnego psa pasterskiego i stróża.
+To pies odpowiedni dla ludzi, którzy szukają inteligentnego i lojalnego towarzysza, który szybko uczy się nowych komend i sztuczek.
+Maltańczyk to pies dla osób, które cenią niewielkie, eleganckie rasy. Jego śnieżnobiała sierść jest jego znakiem rozpoznawczym.
+Idealny dla mieszkańców miast, maltańczyk dobrze czuje się w małych przestrzeniach, pod warunkiem regularnych spacerów.
+Osoby samotne lub starsze docenią jego czułość i przywiązanie. Maltańczyk uwielbia być blisko swojego opiekuna.
+Rodziny z dziećmi znajdą w maltańczyku przyjaciela, który jest łagodny i delikatny, ale jednocześnie pełen energii do zabawy.
+Rottweiler to idealna rasa dla osób doświadczonych w wychowywaniu psów, które szukają lojalnego i silnego obrońcy.
+Dla rodzin, które potrzebują psa stróżującego, rottweiler zapewnia poczucie bezpieczeństwa, jednocześnie będąc czułym wobec bliskich.
+Rottweiler to pies dla osób aktywnych, które cenią sobie codzienny ruch i szkolenie. Jego inteligencja sprawia, że jest świetnym uczniem.
+Dla osób z odpowiednią przestrzenią i czasem, rottweiler stanie się wspaniałym towarzyszem, który odda całe swoje serce swojej rodzinie.
+Doberman to pies dla osób, które szukają eleganckiego, a jednocześnie silnego i pewnego siebie towarzysza.
+Idealny dla ludzi, którzy potrzebują psa stróżującego o wysokiej inteligencji i łatwości w szkoleniu.
+Doberman najlepiej sprawdzi się w rodzinach, które mają czas na regularne ćwiczenia i zabawę, aby zaspokoić jego potrzeby ruchowe.
+Dla miłośników psów obronnych, doberman będzie doskonałym wyborem, łączącym w sobie siłę, szybkość i oddanie.
+Akita-inu to rasa dla osób ceniących niezależność psa i jego majestatyczny wygląd. Jest towarzyszem wiernym, ale wymagającym odpowiedniego podejścia.
+Dla rodzin, które szukają spokojnego psa stróżującego, akita-inu oferuje ochronę i opanowanie.
+Osoby, które lubią spacery w przyrodzie, znajdą w akicie partnera, który uwielbia eksplorować i być aktywnym na świeżym powietrzu.
+Akita-inu jest odpowiednia dla osób z doświadczeniem w pracy z psami, ponieważ jej niezależność wymaga konsekwentnego szkolenia.
+Husky to pies dla miłośników zimowych przygód. Jego naturalna wytrzymałość i zamiłowanie do biegania czynią go idealnym towarzyszem na długie wyprawy.
+Dla rodzin z dziećmi husky może być przyjaznym i energicznym towarzyszem, pod warunkiem zapewnienia odpowiedniego szkolenia.
+Osoby aktywne znajdą w husky idealnego partnera do biegania lub jazdy na rowerze. Jego energia jest niemal nieograniczona.
+Husky to wybór dla ludzi, którzy cenią psy o niezależnym charakterze i pięknym, wilczym wyglądzie.
+Chihuahua jest idealnym wyborem dla osób, które chcą psa kompaktowego i łatwego w transporcie. To pies, który uwielbia być blisko swojego opiekuna.
+Dla mieszkańców miast chihuahua jest świetnym towarzyszem, który dobrze czuje się w małych mieszkaniach.
+Osoby samotne pokochają chihuahuę za jego lojalność i odwagę. Mimo małych rozmiarów, jest niezwykle czujny i odważny.
+Chihuahua to idealna rasa dla tych, którzy chcą psa o dużej osobowości w niewielkim ciele. Jest energiczny, ale uwielbia też chwile relaksu.

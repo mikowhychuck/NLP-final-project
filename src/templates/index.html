@@ -7,9 +7,11 @@
     <title>HowHau</title>
 </head>
 <body>
+    <footer>
+        Małgorzata Farbotko & Adam Mikołajczak
+    </footer>
     <header>
         <img src="/static/logo.png" alt="Logo">
-
     </header>
 
     <main>
@@ -56,8 +58,9 @@
                     img.src = imageUrl;
                     img.alt = `Zdjęcie psa rasy ${breed}`;
                     img.style.width = '200px';
-                    img.style.margin = '10px';
-                    img.style.borderRadius = '20%';
+                    img.style.borderRadius = '12px'; 
+                    img.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.1)';
+                    img.style.filter = 'hue-rotate(30deg)'; 
                     imagesContainer.appendChild(img);
                 });
             } else {
