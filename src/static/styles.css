@@ -11,8 +11,8 @@ body {
 
 header {
     width: 100%;
-    background: linear-gradient(90deg, #ff512f, #dd2476);
-    color: white;
+    background: linear-gradient(90deg, #ebc5bd, #f06ea8);
+    color: #FF0000;
     padding: 0px 0;
     display: flex;
     justify-content: center;
@@ -21,7 +21,7 @@ header {
 }
 
 header img {
-    height: 100px;
+    height: 50px;
     margin-right: 15px;
 }
 
@@ -30,7 +30,6 @@ header h1 {
     font-weight: bold;
     margin: 0;
     letter-spacing: 2px;
-    text-transform: uppercase;
 }
 
 main {
@@ -119,4 +118,10 @@ footer {
     background: #333;
     color: white;
     font-size: 14px;
+}
+
+.dogImages img {
+    height: 100px;
+    margin-right: 15px;
+    border-radius: 50%;
 }

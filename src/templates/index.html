@@ -9,20 +9,22 @@
 <body>
     <header>
         <img src="/static/logo.png" alt="Logo">
+
     </header>
 
     <main>
         <section class="intro">
-            <h1>Opisz swojego wymarzonego pieska</h1>
+            <h1>Jakiego pieska pragniesz?</h1>
             <p>Podziel się, jak wyobrażasz sobie swojego idealnego towarzysza, a my znajdziemy dla ciebie idealną rasę!</p>
         </section>
         <form id="textForm">
-            <textarea id="textInput" rows="4" cols="50" placeholder="Wpisz tekst..."></textarea>
+            <textarea id="textInput" rows="2" cols="50" placeholder="Wpisz tekst..."></textarea>
             <br>
             <button type="submit">Wyślij</button>
         </form>
 
-        <p id="result"></p>
+        <h1 id="result"></h1>
+        <div id="dogImages"></div>
     </main>
 
     <script>
@@ -40,6 +42,27 @@
 
             const data = await response.json();
             document.getElementById('result').innerText = `Twój wymarzony pies to ${data.class}!`;
+
+            
+            const breed = data.eng_name;
+            const imageResponse = await fetch(`https://dog.ceo/api/breed/${breed}/images`);
+            const imageData = await imageResponse.json();
+
+            const imagesContainer = document.getElementById('dogImages');
+            imagesContainer.innerHTML = ''; 
+            if (imageData.status === 'success') {
+                imageData.message.slice(0,1).forEach((imageUrl) => { 
+                    const img = document.createElement('img');
+                    img.src = imageUrl;
+                    img.alt = `Zdjęcie psa rasy ${breed}`;
+                    img.style.width = '200px';
+                    img.style.margin = '10px';
+                    img.style.borderRadius = '20%';
+                    imagesContainer.appendChild(img);
+                });
+            } else {
+                imagesContainer.innerText = 'Nie udało się pobrać zdjęć.';
+            }
         });
     </script>
 </body>
