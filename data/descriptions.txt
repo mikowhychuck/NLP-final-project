@@ -86,7 +86,7 @@ Szczekliwa, zadziorna, przemądrzały, pewny siebie i ruchliwy. Jest mały, bywa
 Dobry do polowań. Policja go chyba używa.
 Beagle to rasa małych psów myśliwskich, pochodząca z Wielkiej Brytanii. Zaliczane do psów gończych, posokowców i ras pokrewnych.
 Ładny, pływa i jest miły. Lubię.
-Fajny, śpiący, leniwym ślini się. bardzo lubię. potężnie zbudowany. Poleciłbym go komuś kto jest ustatkowanie aktywny fizycznie. Dla starszych ludzi.
+Fajny, śpiący, leniwy, ślini się. bardzo lubię. potężnie zbudowany. Poleciłbym go komuś kto jest ustatkowanie aktywny fizycznie. Dla starszych ludzi.
 Poleciłbym go do niedużego mieszkania. małe takie pomarszczone, wyłupiaste oczka. Dla starszych ludzi.
 To takie rude, dłuższe włosy, pływające. wydają się szlachetne i myśliwskie. Ładne i fajne.
 Też takie małe, energiczne. Trochę głupkowate i włochate. nadają się do mieszkania.
@@ -426,3 +426,51 @@ Uwielbia biegać i eksplorować, ale równie chętnie spędzi czas z tobą na za
 Chihuahua to najmniejszy piesek na świecie, ale o wielkiej odwadze i charakterze.  
 Jego wielkie oczy i drobna sylwetka skrywają energię i chęć do zabawy.  
 Uwielbia być blisko swojego człowieka i zawsze znajdzie sposób, by się wcisnąć na kolana.  
+Labrador to prawdziwy przyjaciel – zawsze uśmiechnięty, zawsze gotowy podać łapę w potrzebie.
+Jego energia wydaje się nigdy nie kończyć, szczególnie kiedy w grę wchodzi aportowanie patyków.
+To pies, który kocha każdą chwilę spędzoną z ludźmi, od długich spacerów po leniwe wieczory przy kominku.
+Ten mały piesek to wielki wojownik – nieustraszony, ciekawski i zawsze pełen energii.
+Jego aksamitna sierść to nie tylko ozdoba, ale dowód na to, jak bardzo lubi być pielęgnowany.
+To piesek, który uwielbia eksplorować każdy zakamarek domu, a przy tym nigdy nie zapomina o przytulankach.
+Owczarek niemiecki to strażnik o wielkim sercu – czuwa nad rodziną, ale też uwielbia wspólne zabawy.
+Jego mądrość widać w każdym geście, a siłę w każdym kroku.
+To pies, który potrzebuje wyzwań, ale zawsze znajdzie czas na ciepły kontakt z człowiekiem.
+Beagle to eksplorator z natury – każdy spacer zamienia w przygodę pełną zapachów i odkryć.
+Jego krępe ciałko i wesoły ogon sprawiają, że nikt nie przejdzie obok niego obojętnie.
+To pies, który uwielbia towarzystwo innych psów i ludzi, zawsze szukając zabawy.
+Golden to kwintesencja ciepła – jego miękka sierść i czułe spojrzenie rozgrzewają serce.
+Uwielbia wszelkie aktywności, od biegania po błotnistych polach po pływanie w jeziorze.
+To pies, który nigdy nie traci radości życia, nawet w najbardziej pochmurne dni.
+Buldog wygląda, jakby codziennie budził się z lekkim grymasem, ale jego serce jest pełne miłości.
+Jego niska postura i szeroka klatka piersiowa nadają mu uroku nie do podrobienia.
+To pies, który ceni sobie spokój, ale zawsze znajdzie siły na krótką zabawę.
+Mops to piesek, który zawsze wygląda, jakby coś rozśmieszyło go do łez.
+Jego pomarszczony pyszczek i wielkie oczy to znak firmowy tej wesołej rasy.
+Uwielbia być blisko ludzi, zawsze gotów usiąść obok i towarzyszyć w każdej chwili.
+Cocker spaniel to pies, który wnosi harmonię – jego spokojny charakter łączy się z wrodzoną radością.
+Jego długie uszy i miękka sierść to jego wizytówka, która zawsze zachwyca.
+To pies, który uwielbia długie spacery, szczególnie w towarzystwie swojej rodziny.
+Shih Tzu to mały piesek z dużą pewnością siebie, zawsze gotów brylować w towarzystwie.
+Jego puszysta sierść wymaga uwagi, ale nagrodą jest jego królewski wygląd.
+To piesek, który chętnie spędza czas na kolanach, zawsze szukając ciepła i uwagi.
+Border Collie to pies pracoholik – jego energia i inteligencja nie znają granic.
+Uwielbia uczyć się nowych rzeczy i z entuzjazmem podchodzi do każdego zadania.
+To pies, który najlepiej czuje się na otwartej przestrzeni, gdzie może biegać bez końca.
+Maltańczyk to piesek, który zawsze wygląda, jakby wyszedł prosto z salonu piękności.
+Jego łagodny charakter sprawia, że idealnie nadaje się na towarzysza w codziennym życiu.
+Uwielbia być blisko swojego człowieka, zapewniając mu ciepło i radość.
+Rottweiler to pies, który budzi respekt, ale jednocześnie wzrusza swoją lojalnością i oddaniem.
+Jego muskularna budowa kryje w sobie psa o wielkim sercu i czułym charakterze.
+To towarzysz, który wymaga szacunku, ale daje w zamian bezgraniczną miłość.
+Doberman to synonim elegancji i siły – pies, który zawsze robi wrażenie.
+Jego bystre oczy i wyprostowana postawa świadczą o wysokiej inteligencji i czujności.
+To pies, który uwielbia bliskość z ludźmi, jednocześnie będąc ich niezawodnym obrońcą.
+Akita Inu to dumny i niezależny pies, który jednak potrafi nawiązać silną więź ze swoją rodziną.
+Jego piękna, gęsta sierść i harmonijna sylwetka wyróżniają go na tle innych ras.
+To pies, który szanuje spokój i stabilność, ale zawsze jest gotów na spacer w naturze.
+Husky to pies, który kocha wolność – jego natura woła o przestrzeń i ruch.
+Jego intensywne spojrzenie i wilcza postura przyciągają uwagę każdego, kogo spotka.
+Uwielbia biegać, ciągnąć sanie lub po prostu towarzyszyć w długich wycieczkach.
+Chihuahua to mały piesek, który zawsze zachowuje się, jakby był królem świata.
+Jego wielka osobowość i energia zaskakują, biorąc pod uwagę jego drobną posturę.
+To piesek, który uwielbia być blisko swojego człowieka, zawsze gotów na odrobinę uwagi i czułości.
