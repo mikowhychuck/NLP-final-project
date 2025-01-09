@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify, render_template
-from bayes_classificator import get_breed
+from bert_classificator import get_breed
 
 app = Flask(__name__)
 
