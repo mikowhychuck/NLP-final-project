@@ -282,3 +282,147 @@ Doberman to pies o silnej osobowości, który wymaga odpowiedniego prowadzenia. 
 Akita Inu to pies o dostojnym wyglądzie i niezależnym charakterze. Ma silny instynkt obronny i jest bardzo lojalny. 
 Husky to pies o niezwykłej wytrzymałości i energii. Uwielbia długie spacery i życie na świeżym powietrzu. 
 Chihuahua to najmniejszy pies na świecie, lecz o ogromnej pewności siebie. Jest pełen energii i oddania, choć czasami może być nieco zaborczy.
+Labrador Retriever: Mój labek jest duży i zawsze się cieszy, jakby widział mnie pierwszy raz w życiu! Uwielbia bawić się piłką. Jak mokry wraca z rzeki, to strasznie chlupie!
+Labrador Retriever: On ma mięciutkie łapki i ogromny nosek, którym wszystko wącha. Jak je lody, to wygląda bardzo śmiesznie.
+Labrador Retriever: Mój piesek zawsze macha ogonkiem i daje mi mokre buziaki, nawet jak nie chcę!
+Yorkshire Terrier: York jest malutki, ale strasznie głośny! Zawsze szczeka, jak widzi coś nowego.
+Yorkshire Terrier: Ma długie włoski, które można czesać i robić mu kucyki. Lubi spać na moich kolanach.
+Yorkshire Terrier: Jest malutki jak moja maskotka, ale biega szybciej niż ja!
+Owczarek Niemiecki: Owczarek jest jak rycerz, zawsze mnie pilnuje. Ma wielkie uszy i słucha wszystkiego!
+Owczarek Niemiecki: Uwielbia biegać i skakać. Jak podaje łapę, to jest taka duża, że zakrywa moją dłoń.
+Owczarek Niemiecki: Jego sierść jest miękka, a oczy mądre. Czuję się bezpiecznie, jak jest ze mną.
+Beagle: Beagle ma uszka jak motylki i jest bardzo ciekawski. Wącha każdy krzaczek.
+Beagle: Jest śmieszny, bo czasem, jak zobaczy coś ciekawego, ciągnie mnie na smyczy jak mały traktorek.
+Beagle: Lubi biegać po polu i szukać zapachów. Ma łagodne oczka, które zawsze mnie rozczulają.
+Golden Retriever: Golden jest jak słoneczko, taki ciepły i miły. Zawsze macha ogonem.
+Golden Retriever: Lubi biegać za patykami i jest bardzo grzeczny. Jego futerko jest mięciutkie jak mój kocyk.
+Golden Retriever: Jak się uśmiecha, to wygląda, jakby opowiadał żarty. Zawsze jest przyjacielski.
+Buldog: Buldog jest taki grubiutki i zabawny. Chrapie, jak śpi, i to brzmi jak traktor.
+Buldog: Ma krótki nosek, który wygląda, jakby był zawsze zdziwiony. Jest kochany i spokojny.
+Buldog: Jak chodzi, to trochę się kiwa, ale to jest takie słodkie! Lubi się przytulać.
+Mops: Mops ma duże oczka, jakby ciągle się dziwił. Zawsze chce być blisko mnie.
+Mops: Jego pyszczek jest taki marszczony, że wygląda, jakby coś kombinował. Jest zabawny.
+Mops: Lubi spać i wydaje śmieszne dźwięki, jak się cieszy. Jest moim przyjacielem.
+Cocker Spaniel: Spanielek ma uszka jak skrzydełka aniołka i skacze jak piłeczka.
+Cocker Spaniel: Lubi bawić się w chowanego, bo zawsze mnie szuka, nawet jak nie jestem schowana.
+Cocker Spaniel: Ma wielkie oczy, które zawsze na mnie patrzą, jak jem kanapkę.
+Shih Tzu: Shih Tzu jest malutki i wygląda jak miś. Jego futerko jest bardzo puchate.
+Shih Tzu: Lubi się bawić w gonienie za zabawkami i jest bardzo wesoły. Jak śpi, to chrapie cichutko.
+Shih Tzu: Ma nos jak guzik i uwielbia, jak się go głaszcze. Jest taki milutki.
+Border Collie: Border Collie jest zawsze w ruchu! Biega szybciej niż rower i zawsze mnie wyprzedza.
+Border Collie: Jest bardzo mądry, bo zawsze przynosi zabawkę, jak mu powiem. Ma piękne czarno-białe futerko.
+Border Collie: Uwielbia zabawy w ganianego i patrzy na mnie tymi swoimi ślicznymi oczkami.
+Maltańczyk: Maltańczyk jest malutki i biały jak śnieżynka. Lubi spać na poduszce.
+Maltańczyk: Ma futerko jak chmurka i zawsze jest grzeczny, jak czeszę mu włosy.
+Maltańczyk: Jak się cieszy, to macha ogonkiem tak mocno, że prawie fruwa.
+Rottweiler: Rottweiler wygląda groźnie, ale jest bardzo kochany. Jego futerko jest gładkie i błyszczące.
+Rottweiler: Ma wielką głowę, którą wkłada na moje kolana, jak chce się przytulić.
+Rottweiler: Jak biegnie, to wygląda jak pan policjant, ale zawsze się bawi ze mną.
+Doberman: Doberman jest wysoki i szybki. Wygląda jak rycerz na straży.
+Doberman: Lubi biegać obok roweru, kiedy jadę. Jest bardzo mądry i zawsze wie, co robić.
+Doberman: Ma krótkie, lśniące futerko i wielkie uszy, które czasem wyglądają jak anteny.
+Akita Inu: Akita wygląda jak wilk, ale jest bardzo spokojny. Jego futerko jest mięciutkie jak poduszka.
+Akita Inu: Lubi siedzieć na podwórku i patrzeć na wszystko, jakby pilnował świata.
+Akita Inu: Jest bardzo cichy, ale zawsze przychodzi, kiedy go zawołam. Jest moim najlepszym strażnikiem.
+Husky: Husky ma oczy jak lód i jest bardzo szybki. Lubi biegać w śniegu.
+Husky: Jego futro jest grube i mięciutkie, a ogon wygląda jak miotełka.
+Husky: Zawsze wygląda, jakby chciał opowiadać historie. Jest bardzo wesoły.
+Chihuahua: Chihuahua jest malutki jak kieszonkowy piesek. Zawsze drży, jak jest zimno.
+Chihuahua: Ma wielkie uszy, które wyglądają jak skrzydła nietoperza. Jest bardzo dzielny.
+Chihuahua: Lubi siedzieć na moich rękach i patrzeć na wszystko z góry, jakby był królem.
+Labrador Retriever: Labrador retriever jest psem średniej wielkości, znanym z niezwykle przyjaznego usposobienia. Jego umaszczenie występuje w odcieniach żółci, czerni lub czekolady.
+Labrador Retriever: Charakteryzuje się doskonałą zdolnością adaptacji do różnorodnych warunków środowiskowych, co czyni go wyjątkowo wszechstronnym.
+Labrador Retriever: Jest uznawany za jedną z najbardziej inteligentnych ras, często wykorzystywany w roli psa przewodnika, terapeutycznego lub ratowniczego.
+Yorkshire Terrier: Yorkshire terrier to rasa małych psów o delikatnym umaszczeniu, zwykle ciemnoniebieskim i płowym. Ich jedwabista sierść wymaga regularnej pielęgnacji.
+Yorkshire Terrier: Psy tej rasy są niezwykle energiczne, co nie współgra z ich niewielkimi rozmiarami, czyniąc je żywiołowymi towarzyszami.
+Yorkshire Terrier: Są znane z pewności siebie i odważnego charakteru, co czyni je doskonałymi stróżami, mimo ich niewielkiej postury.
+Owczarek Niemiecki: Owczarek niemiecki jest jedną z najbardziej wszechstronnych ras użytkowych, cenioną za inteligencję i lojalność.
+Owczarek Niemiecki: Charakteryzuje się gęstą, dwuwarstwową sierścią, która występuje w kolorach od czarnego z podpalaniem po jednolicie czarny.
+Owczarek Niemiecki: Jest niezwykle skuteczny w pracy policyjnej, wojskowej oraz jako pies ratowniczy, dzięki swojej zdolności szybkiego uczenia się.
+Beagle: Beagle to rasa psów myśliwskich o średniej wielkości, cechująca się doskonałym węchem i nieustępliwością w tropieniu.
+Beagle: Ich umaszczenie jest zazwyczaj trójbarwne, obejmujące biel, czerń i brąz, co podkreśla ich urok.
+Beagle: Są psami o pogodnym i łagodnym usposobieniu, co czyni je doskonałymi towarzyszami rodzin z dziećmi.
+Golden Retriever: Golden retriever to rasa wysoce ceniona za inteligencję, cierpliwość i przyjazne usposobienie.
+Golden Retriever: Posiadają gęste, wodoodporne futro w odcieniach złota, które wymaga regularnej pielęgnacji.
+Golden Retriever: Ze względu na swoją wszechstronność często są wykorzystywane jako psy przewodnicy, terapeutyczne i ratownicze.
+Buldog: Buldog to rasa średniej wielkości, znana z charakterystycznej masywnej budowy ciała i krótko ściętego pyska.
+Buldog: Ich spokojny charakter i silne przywiązanie do właściciela czynią je idealnymi psami domowymi.
+Buldog: Są to psy o krótkiej, gładkiej sierści, która wymaga minimalnej pielęgnacji, lecz ich zdrowie wymaga szczególnej uwagi.
+Mops: Mops to rasa małych psów o charakterystycznym, marszczonym pysku i dużych, wyrazistych oczach.
+Mops: Są znane z łagodnego i towarzyskiego charakteru, co czyni je wspaniałymi towarzyszami w małych gospodarstwach domowych.
+Mops: Ich krótka sierść jest łatwa w pielęgnacji, ale psy te wymagają regularnych ćwiczeń, aby utrzymać dobrą kondycję.
+Cocker Spaniel: Cocker spaniel to rasa o średniej wielkości, wyróżniająca się długimi, opadającymi uszami i jedwabistym futrem.
+Cocker Spaniel: Są niezwykle energiczne i radosne, co czyni je doskonałymi towarzyszami zarówno na spacerach, jak i w domu.
+Cocker Spaniel: Ich wyraźne przywiązanie do właściciela oraz łagodny charakter sprawiają, że doskonale nadają się do życia w rodzinie.
+Shih Tzu: Shih Tzu to rasa małych psów o długiej, gęstej sierści, która wymaga regularnego czesania i pielęgnacji.
+Shih Tzu: Charakteryzują się spokojnym, lecz przyjacielskim usposobieniem, co czyni je popularnymi psami do towarzystwa.
+Shih Tzu: Ich kompaktowa budowa i duże, wyraziste oczy dodają im niezwykłego uroku.
+Border Collie: Border collie jest uznawany za jedną z najbardziej inteligentnych ras psów, wyróżniającą się wyjątkową zdolnością do nauki.
+Border Collie: Ich umaszczenie jest różnorodne, często spotykane w kolorach czarno-białym, z długą, gęstą sierścią.
+Border Collie: Są wysoce energiczne i potrzebują codziennej stymulacji fizycznej oraz umysłowej, aby utrzymać dobrą kondycję.
+Maltańczyk: Maltańczyk to rasa małych psów o śnieżnobiałym, jedwabistym futrze, które wymaga regularnej pielęgnacji.
+Maltańczyk: Są niezwykle łagodne i przyjazne, co czyni je doskonałymi towarzyszami zarówno dla dzieci, jak i osób starszych.
+Maltańczyk: Mimo niewielkich rozmiarów charakteryzują się dużą odwagą i pewnością siebie.
+Rottweiler: Rottweiler to rasa dużych psów o silnej budowie ciała i krótkiej, błyszczącej sierści.
+Rottweiler: Są znane z odwagi i lojalności wobec właściciela, co czyni je doskonałymi psami stróżującymi.
+Rottweiler: Psy tej rasy wymagają odpowiedniej socjalizacji i szkolenia, aby w pełni wykorzystać ich potencjał jako towarzyszy.
+Doberman: Doberman to rasa elegancka, wyróżniająca się smukłą sylwetką i krótką, błyszczącą sierścią.
+Doberman: Są niezwykle inteligentne i szybko uczące się, co czyni je wszechstronnymi w pracy służbowej i sportowej.
+Doberman: Wymagają regularnej aktywności fizycznej oraz odpowiedniego szkolenia, aby utrzymać równowagę psychiczną.
+Akita Inu: Akita Inu to rasa dużych psów pochodzących z Japonii, znanych z dumnego i niezależnego charakteru.
+Akita Inu: Ich gęste, podwójne futro występuje w odcieniach białym, rudym lub pręgowanym, co dodaje im elegancji.
+Akita Inu: Są niezwykle lojalne wobec właściciela, jednak wymagają odpowiedniego szkolenia i socjalizacji.
+Husky: Husky syberyjski to rasa średniej wielkości, znana z wytrzymałości i zdolności do pracy w zaprzęgach.
+Husky: Ich charakterystyczne umaszczenie, często z białymi i czarnymi łatami, oraz niebieskie oczy są niezwykle efektowne.
+Husky: Są psami energicznymi, które wymagają dużej ilości ruchu, aby zachować zdrowie i dobre samopoczucie.
+Chihuahua: Chihuahua to rasa najmniejszych psów na świecie, cechująca się dużymi uszami i wyrazistymi oczami.
+Chihuahua: Mimo niewielkich rozmiarów są niezwykle odważne i pewne siebie, co czyni je intrygującymi towarzyszami.
+Chihuahua: Wymagają regularnej uwagi i socjalizacji, aby zrównoważyć ich naturalną czujność.
+Labrador to wieczny optymista, zawsze gotowy do zabawy, szczególnie jeśli w grę wchodzi woda i aportowanie.  
+Jego gładka sierść i przyjazne spojrzenie sprawiają, że każdy czuje się przy nim jak w domu.  
+To idealny kompan na długie spacery, rodzinne pikniki i leniwe wieczory na kanapie.   
+Ten mały piesek ma więcej charakteru, niż można by się spodziewać po jego rozmiarach!  
+Jego jedwabista sierść i błyszczące oczy czynią go prawdziwym elegancikiem, ale nie daj się zwieść – to istny urwis.  
+Uwielbia być w centrum uwagi i zawsze znajdzie sposób, by zwrócić na siebie uwagę.  
+Owczarek niemiecki to uosobienie odwagi i lojalności – pies, na którym zawsze można polegać.  
+Jego atletyczna sylwetka i inteligentne spojrzenie budzą podziw, a czasem i respekt.  
+To idealny towarzysz dla aktywnych, który uwielbia wyzwania i naukę nowych rzeczy.  
+Beagle to wieczny poszukiwacz przygód z nosem zawsze przy ziemi, węszący nowe zapachy.  
+Jego klapnięte uszy i energiczne ogonki czynią go uroczym kompanem na każdą okazję.  
+To pies o wielkim sercu i nieposkromionej ciekawości, która nigdy nie pozwala się nudzić.  
+Złoty retriever to pies, który wnosi słońce do każdego dnia – zawsze radosny i pełen energii.  
+Jego miękka, złocista sierść aż prosi się o głaskanie, a łagodne oczy zawsze mówią „kocham cię”.  
+To przyjaciel, który uwielbia zabawy na świeżym powietrzu, ale też przytulanki na kanapie.  
+Buldog to pies o nietypowej urodzie, która szybko zjednuje serca – niska postura, ale wielki charakter.  
+Jego spokojny, niemal flegmatyczny styl bycia to idealny balans dla zabieganych dni.  
+Mimo swojej poważnej miny, uwielbia chwile bliskości i zawsze cieszy się na widok swoich ludzi.   
+Mops to mały pies o wielkiej duszy i charakterystycznym, pomarszczonym pyszczku, który zawsze wywołuje uśmiech.  
+Jego śmieszne, chrapliwe dźwięki to znak rozpoznawczy i część jego uroku.  
+Uwielbia się wylegiwać, ale równie chętnie towarzyszy we wszystkim, co robisz – od oglądania telewizji po spacery.  
+Cocker spaniel to elegancja w ruchu – jego falująca sierść i łagodne spojrzenie zachwycają każdego.  
+Jest pełen energii i miłości, zawsze gotów na zabawy i eksplorowanie świata.  
+Uwielbia być blisko swoich ludzi i nigdy nie odmówi dodatkowej porcji pieszczot.  
+Shih Tzu to mały piesek o królewskim wyglądzie i ogromnym sercu – prawdziwy książę w domowym zaciszu.  
+Jego puszysta sierść i wesoły charakter czynią go doskonałym towarzyszem codziennych radości.  
+To piesek, który uwielbia być rozpieszczany i zawsze znajdzie sposób, by się przytulić.  
+Border collie to mistrz inteligencji i energii – zawsze w ruchu, zawsze gotów do działania.  
+Jego spojrzenie mówi: „Pokaż mi, co robić, a zrobię to perfekcyjnie”.  
+To pies, który potrzebuje zajęcia, ale daje w zamian ogromną miłość i oddanie.  
+Maltańczyk to mała, biała kulka szczęścia – zawsze wesoły, zawsze gotów na przytulanki.  
+Jego delikatna sierść wymaga pielęgnacji, ale odwdzięcza się uroczym wyglądem.  
+To piesek, który uwielbia być w centrum uwagi i z łatwością zjednuje serca.   
+Rottweiler to pies o imponującej sylwetce i łagodnym sercu dla tych, których kocha.  
+Jego odwaga i siła idą w parze z ogromną lojalnością i chęcią ochrony.  
+Mimo poważnego wyglądu, to pies, który uwielbia zabawę i bliskość z rodziną.  
+Doberman to elegancja i atletyka w jednym – pies o sylwetce jak wyciosanej w marmurze.  
+Jego inteligencja i odwaga czynią go idealnym towarzyszem dla aktywnych i pewnych siebie ludzi.  
+To pies, który z oddaniem strzeże swoich bliskich, ale uwielbia też chwile czułości.    
+Akita Inu to pies o dumnym charakterze i majestatycznej urodzie – prawdziwy strażnik domowego ogniska.  
+Jego gęsta sierść i wyraziste spojrzenie przyciągają uwagę każdego.  
+To pies, który potrzebuje przestrzeni i szacunku, ale odwdzięcza się niezłomną lojalnością.  
+Husky to niestrudzony podróżnik, który w duszy zawsze pozostaje trochę dzikim wilkiem.  
+Jego błękitne oczy i puszysty ogon czynią go jedynym w swoim rodzaju.  
+Uwielbia biegać i eksplorować, ale równie chętnie spędzi czas z tobą na zabawie.  
+Chihuahua to najmniejszy piesek na świecie, ale o wielkiej odwadze i charakterze.  
+Jego wielkie oczy i drobna sylwetka skrywają energię i chęć do zabawy.  
+Uwielbia być blisko swojego człowieka i zawsze znajdzie sposób, by się wcisnąć na kolana.  
