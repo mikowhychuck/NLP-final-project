@@ -4,6 +4,13 @@
 
 HowHau is an amazing, state-of-the-art system, which was created to classify dog breeds based on their text description in polish.
 
+## Setup (BRET model)
+
+To start using the web app:
+
+1. run `src/bert_model_train.py`
+2. run `src/app.py`
+
 ## Creators
 
 The project is created by very dynamic and ambitious duo.
