@@ -1,7 +1,59 @@
-# HowHau
+# HowHau (Polish below)
 
 <img src="howhau.png" alt="Logo HowHau" width="300">
 
+## Program Launch Instructions
+
+To run the program, you need to:
+
+1. run `src/bert_model_train.py`
+2. run `src/app.py`
+
+## Project Development Process
+
+### Project Assumptions
+
+The program we created is a web application that helps users find out which dog breed suits them best based on their personal preferences.
+
+### Dataset Creation
+
+We decided to train the model to classify the 16 most popular dog breeds in Poland. After thorough analysis, we selected the following breeds:
+
+- labrador retriever  
+- yorkshire terrier  
+- german shepherd  
+- beagle  
+- golden retriever  
+- french bulldog  
+- pug  
+- cocker spaniel  
+- shihtzu  
+- border collie  
+- maltese  
+- rottweiler  
+- doberman  
+- akita inu  
+- husky  
+- chihuahua  
+
+For each breed, we collected several dozen descriptions from highly diverse sources – ranging from Wikipedia, through blogs and various websites, to both synthetic data and the most natural kind – gathered from our close ones.
+
+### Model Training
+
+We approached the project twice – first using a Naive Bayes classifier, and after discovering its performance was unsatisfactory, we fine-tuned a Polish BERT model – `sdadas/polish-roberta-base-v2`. The final project is based on the latter solution, but the file implementing the Naive Bayes classifier is also included in this directory.
+
+The file `results.txt` contains the model's results when trained with different parameters – this allowed us to analyze which parameter set produced the best results.
+
+### Web Application
+
+We built a simple Flask web app to make the whole system more user-friendly.
+
+## Project Authors
+
+- Adam Mikołajczak  
+- Małgorzata Farbotko  
+
+# HowHau (Opis po polsku)
 ## Instrukcja uruchomienia programu
 
 Aby uruchomić program należy:
